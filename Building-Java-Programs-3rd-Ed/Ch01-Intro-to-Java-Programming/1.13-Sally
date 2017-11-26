@@ -1,0 +1,3 @@
+// Solution by Gideon Tong
+
+System.out.println("\"Several slashes are sometimes seen,\"\nsaid Sally. \"I've said so.\" See?\n\\ / \\\\ // \\\\\\ ///");
