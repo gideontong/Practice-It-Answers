@@ -1,0 +1,7 @@
+// Solution by Gideon Tong
+
+System.out.println("Twas brillig and the ");
+System.out.println("  slithy toves did gyre and");
+System.out.println("gimble");
+System.out.println();
+System.out.println(  "in the wabe." );

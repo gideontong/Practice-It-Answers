@@ -1,0 +1,4 @@
+// Solution by Gideon Tong
+
+System.out.println("This is a test of your\nknowledge of \"quotes\" used\nin 'string literals.'");
+System.out.println("\nYou're bound to \"get it right\"\nif you read the section on\n''quotes.''");
