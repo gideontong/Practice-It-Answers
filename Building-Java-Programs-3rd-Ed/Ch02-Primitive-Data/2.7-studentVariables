@@ -1,0 +1,5 @@
+// Solution by Gideon Tong
+
+int year;
+int courses;
+double GPA;

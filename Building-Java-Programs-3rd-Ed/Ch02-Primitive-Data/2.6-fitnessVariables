@@ -1,0 +1,6 @@
+// Solution by Gideon Tong
+
+int age;
+String gender;
+double height;
+int weight;
