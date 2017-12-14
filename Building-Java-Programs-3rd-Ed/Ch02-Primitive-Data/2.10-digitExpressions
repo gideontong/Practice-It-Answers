@@ -1,0 +1,4 @@
+// Solutions by Gideon Tong
+
+(number % 100 - number % 10)/10
+(number % 1000 - number % 100)/100
