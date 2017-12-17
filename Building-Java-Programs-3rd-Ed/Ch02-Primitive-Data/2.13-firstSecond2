@@ -1,0 +1,6 @@
+// Solution by Gideon Tong
+
+int first = 8, second = 19;
+first += second;
+second = first - second;
+first -= second;
