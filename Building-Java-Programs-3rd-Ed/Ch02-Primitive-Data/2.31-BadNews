@@ -1,0 +1,23 @@
+// Solution by Gideon Tong
+
+public class BadNews {
+public static final int x = 1;
+    public static void writeOdds(int max) {
+        // print each odd number
+        int count = 1;
+        for (count = 1; count <= (max - 2); count+=2) {
+            System.out.print(count + " ");
+        }
+
+        // print the last odd number
+        System.out.println(count);
+    }
+
+    public static void main(String[] args) {
+        // write all odds up to 21
+        writeOdds(21);
+
+        // now, write all odds up to 11
+        writeOdds(11);
+    }
+}
