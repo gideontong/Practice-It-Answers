@@ -1,0 +1,10 @@
+// Solution by Gideon Tong
+
+mystery(a, b, c);
+-3 + 1 = 2
+
+mystery(c, 4, a);
+1 + -3 = 4
+
+mystery(a + b, b + c, c + a);
+-2 + 3 = -1
